@@ -1,8 +1,9 @@
 # techieaditya.github.io
 github repositories:
-https://github.com/techieaditya 
 
-https://github.com/techhackie
+>_ https://github.com/techieaditya 
+
+>_ https://github.com/techhackie
 
 profile link:
 https://linkedin.com/in/techieaditya
