@@ -1,11 +1,12 @@
-# techieaditya.github.io
-github repositories:
+#Aditya Prakash
 
->_ https://github.com/techieaditya 
+My Github repositories:
 
->_ https://github.com/techhackie
+// https://github.com/techieaditya 
 
-profile link:
+// https://github.com/techhackie
+
+Profile link:
 https://linkedin.com/in/techieaditya
 
 email:techieaditya@outlook.com
