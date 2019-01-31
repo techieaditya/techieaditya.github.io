@@ -8,4 +8,3 @@ $ https://github.com/techhackie
 Profile link:
 https://linkedin.com/in/techieaditya
 
-email:techieaditya@outlook.com
