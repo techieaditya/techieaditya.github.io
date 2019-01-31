@@ -28,24 +28,28 @@ var layer_defs = [];
 //fully connected layer(hidden) with activation function Relu.
 layer_defs.push({
     type: 'fc',
-    num_neurons: num_inputs
+    num_neurons: num_inputs,
+    activation:'relu'
 });
 //fully connected layer(hidden) with activation function Relu.
 layer_defs.push({
     type: 'fc',
-    num_neurons: num_inputs
+    num_neurons: num_inputs,
+    activation:'relu'
     
 });
 //fully connected layer(hidden) with activation function Relu.
 layer_defs.push({
     type: 'fc',
-    num_neurons: num_inputs
+    num_neurons: num_inputs,
+    activation:'relu'
     
 });
 //output layer
 layer_defs.push({
     type: 'regression',
-    num_neurons: num_actions
+    num_neurons: num_actions,
+    activation:'relu'
 });
 
 var tdtrainer_options = {
