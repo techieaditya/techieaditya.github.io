@@ -1,4 +1,3 @@
-#Aditya Prakash
 
 My Github repositories:
 $ https://github.com/techieaditya 
