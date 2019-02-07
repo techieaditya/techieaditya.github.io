@@ -36,10 +36,10 @@ var pJS = function(tag_id, params){
           color: '#ff0000'
         },
         polygon: {
-          nb_sides: 10
+          nb_sides: 5
         },
         image: {
-          src: 'https://techieaditya.github.io/content/IMG_20180108_174239.jpg',
+          src: '',
           width: 100,
           height: 100
         }
@@ -49,7 +49,7 @@ var pJS = function(tag_id, params){
         random: false,
         anim: {
           enable: false,
-          speed: 2,
+          speed: 1,
           opacity_min: 0,
           sync: false
         }
