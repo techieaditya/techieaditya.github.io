@@ -20,7 +20,7 @@ var pJS = function(tag_id, params){
     },
     particles: {
       number: {
-        value: 400,
+        value: 200,
         density: {
           enable: true,
           value_area: 800
@@ -36,10 +36,10 @@ var pJS = function(tag_id, params){
           color: '#ff0000'
         },
         polygon: {
-          nb_sides: 5
+          nb_sides: 10
         },
         image: {
-          src: '',
+          src: 'https://techieaditya.github.io/content/IMG_20180108_174239.jpg',
           width: 100,
           height: 100
         }
@@ -66,7 +66,7 @@ var pJS = function(tag_id, params){
       },
       line_linked: {
         enable: true,
-        distance: 100,
+        distance: 150,
         color: '#fff',
         opacity: 1,
         width: 1
@@ -92,11 +92,11 @@ var pJS = function(tag_id, params){
       events: {
         onhover: {
           enable: true,
-          mode: 'grab'
+          mode: 'push'
         },
         onclick: {
           enable: true,
-          mode: 'push'
+          mode: 'grab'
         },
         resize: true
       },
