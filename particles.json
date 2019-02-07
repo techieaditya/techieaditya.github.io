@@ -17,7 +17,7 @@
         "color": "#000000"
       },
       "polygon": {
-        "nb_sides": 5
+        "nb_sides": 8
       },
       "image": {
         "src": "img/github.svg",
@@ -29,18 +29,18 @@
       "value": 0.5,
       "random": false,
       "anim": {
-        "enable": false,
+        "enable": true,
         "speed": 1,
         "opacity_min": 0.1,
         "sync": false
       }
     },
     "size": {
-      "value": 6,
+      "value": 5,
       "random": true,
       "anim": {
         "enable": true,
-        "speed": 30,
+        "speed": 10,
         "size_min": 0.1,
         "sync": true
       }
@@ -83,7 +83,7 @@
       "grab": {
         "distance": 400,
         "line_linked": {
-          "opacity": 1
+          "opacity": 0.3
         }
       },
       "bubble": {
