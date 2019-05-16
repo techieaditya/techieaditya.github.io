@@ -107,7 +107,7 @@
   "retina_detect": true,
   "config_demo": {
     "hide_card": false,
-    "background_color": "#303830",
+    "background_color": "random",
     "background_image": "https://techieaditya.github.io/content/IMG_20180108_174239.jpg",
     "background_position": "50% 50%",
     "background_repeat": "no-repeat",
