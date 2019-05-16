@@ -8,7 +8,7 @@
       }
     },
     "color": {
-      "value": "random"
+      "value": random
     },
     "shape": {
       "type": "circle",
@@ -48,7 +48,7 @@
     "line_linked": {
       "enable": true,
       "distance": 180,
-      "color": "random",
+      "color": random,
       "opacity": 0.6,
       "width": 1
     },
